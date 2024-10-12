@@ -1,11 +1,13 @@
-##Update log version 1.0.0:
+### Update log version 1.0.0:
+
 1.Update some files.
 
 2.Update the version number.
 
 3.Add a new update log.
 
-##Initial Cut Set:
+## Initial Cut Set:
+
 pt of all muons > 2.0
 
 prob of JPsi1 or JPsi2 >= 0.005
@@ -23,3 +25,9 @@ deltaR of all Psi2S < 0.5
 all muon is patloose muon
 
 FitVtxProb >=0.001
+
+## Signal and Background Selection
+
+Signal from 3.68 to 3.70
+
+Background fron 3.60 to 3.78
